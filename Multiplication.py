@@ -6,5 +6,5 @@ num2 = float(input("Enter second number: "))
 product = num1 * num2
 
 # Displaying the result
-print("The product is:", product)
+print("The sum  is:", product)
 
