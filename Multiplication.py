@@ -8,4 +8,3 @@ product = num1 * num2
 # Displaying the result
 print("The sum  is:", product)
 
-
